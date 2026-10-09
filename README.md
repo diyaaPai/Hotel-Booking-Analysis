@@ -68,3 +68,17 @@ These findings describe associations in the analyzed data and do not establish c
 - Compare booking patterns month by month across individual years.
 - Explore additional factors associated with cancellations.
 - Develop an interactive dashboard for hotel booking analysis.
+
+## Visualizations
+
+### 1. Booking Distribution by Hotel Type
+
+![Booking Distribution by Hotel Type](images/booking_distribution.png)
+
+### 2. Cancellation Rate by Deposit Type
+
+![Cancellation Rate by Deposit Type](images/cancellation_by_deposit.png)
+
+### 3. Bookings by Arrival Month
+
+![Bookings by Arrival Month](images/bookings_by_month.png)
